@@ -1,0 +1,34 @@
+# Xcode
+.DS_Store
+/DerivedData/
+/build/
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Cocoapods
+/Pods/
+Podfile.lock
+
+# Carthage
+/Carthage/Checkouts
+/Carthage/Build
+
+# Xcode Archives
+*.xcarchive
+
+# App Specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Fastlane
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots
+/fastlane/test_output
